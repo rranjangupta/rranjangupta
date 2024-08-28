@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Backend stuffs
 - 📫 How to reach me ..
 rranjangupta@protonmail.com
-Check my Intro [here](https://rranjangupta.in)
+Check my Intro [here](https://rajugupta.com)
 
 <!---
 rranjangupta/rranjangupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
